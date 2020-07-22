@@ -2,26 +2,26 @@
 <?xml-stylesheets href="DpeluchEstilos.css"?>
 
 <factura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          >
-    <!--xsi:noNamespaceSchemaLocation="XSD1.xsd"-->
+          xsi:noNamespaceSchemaLocation="XSD1.xsd">
+    
     <cabFactura>
-        <codFactura></codFactura>
-        <rucEmpresa></rucEmpresa>
-        <cedula></cedula>
-        <nombre></nombre>
-        <apellido></apellido>
+        <codFactura>3464</codFactura>
+        <rucEmpresa>046546540</rucEmpresa>
+        <cedula>1717976383</cedula>
+        <nombre>Erick</nombre>
+        <apellido>Guerrero</apellido>
         <fecha>
-            <anio/>
-            <mes/>
-            <dia/>
+            <anio>2020<anio/>
+            <mes>05<mes/>
+            <dia>20<dia/>
         </fecha>
-        <telefono></telefono>
-        <direccion></direccion>
+        <telefono>0998938639</telefono>
+        <direccion>San Juan</direccion>
     </cabFactura>
     <cuerpoFactura>
-        <detalle></detalle>
-        <cantidad></cantidad>
-        <formaPago></formaPago>
-        <total></total>
+        <detalle>Peluche azul</detalle>
+        <cantidad>23</cantidad>
+        <formaPago>Efectivo</formaPago>
+        <total>68</total>
     </cuerpoFactura>
 </factura>
