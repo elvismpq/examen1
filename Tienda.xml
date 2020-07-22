@@ -3,7 +3,7 @@
 
 <factura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           >
-    <!--xsi:noNamespaceSchemaLocation="TiendaXSD.xsd"-->
+    <!--xsi:noNamespaceSchemaLocation="XSD1.xsd"-->
     <cabFactura>
         <codFactura></codFactura>
         <rucEmpresa></rucEmpresa>
