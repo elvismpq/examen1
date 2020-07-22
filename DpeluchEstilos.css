@@ -1,4 +1,10 @@
-factura{
+factura
+{
+ 
     display: block;
+    border: 1px solid brown; 
+    margin:10px; 
+    padding:10px; 
+    background-color:whitesmoke;
+    
 }
-
