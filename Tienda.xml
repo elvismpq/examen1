@@ -17,10 +17,10 @@
         </fecha>
         <telefono>0998938639</telefono>
         <direccion>San Juan</direccion>
-    
+        <cantidad>23</cantidad>
     
         <detalle>Peluche azul</detalle>
-        <cantidad>23</cantidad>
+        
         <formaPago>Efectivo</formaPago>
         <total>68</total>
 </factura>
