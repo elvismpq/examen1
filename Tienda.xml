@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<factura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          >
+    <!--xsi:noNamespaceSchemaLocation="TiendaXSD.xsd"-->
+    <cabFactura>
+        <codFactura></codFactura>
+        <rucEmpresa></rucEmpresa>
+        <cedula></cedula>
+        <nombre></nombre>
+        <apellido></apellido>
+        <fecha>
+            <anio/>
+            <mes/>
+            <dia/>
+        </fecha>
+        <telefono></telefono>
+        <direccion></direccion>
+    </cabFactura>
+    <cuerpoFactura>
+        <detalle></detalle>
+        <cantidad></cantidad>
+        <formaPago></formaPago>
+        <total></total>
+    </cuerpoFactura>
+</factura>
