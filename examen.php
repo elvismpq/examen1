@@ -1,7 +1,6 @@
 <?php
-$xml=simplexml_load_file("https://elvismpq.github.io/examen1/Tienda.xml");
+$xml=simplexml_load_file("https://elvismpq.github.io/examen1/XML1.xml");
 foreach ($xml->fecha as $d) {
-echo 'adssadasd';
 
 
         $db_host = "localhost";
